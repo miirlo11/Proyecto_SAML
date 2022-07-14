@@ -1,0 +1,84 @@
+.site-header{
+    background-color: #001219;
+}
+
+.site-header a{
+    color: white;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 500px;
+}
+
+.featurette-heading{
+    font-size: 50px;
+    margin-top: 7rem;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+
+.marketing{
+    max-width: 1500px;
+}
+
+.container1{    
+    margin-right: 30rem;
+    height: 400px;
+}
+
+.accordion{
+    width: 600px;
+}
+
+.bd-example1{
+    width: 600px;
+    margin-top: 5rem;
+}
+
+.container2{
+    margin-top: 2rem;
+    max-width: 800px;
+}
+
+.bd-example2{
+    margin-left: 10rem;
+    padding-top: 7rem;
+}
+
+.bd-example3{
+    padding-top: 10rem;
+}
+
+.card{
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+
+.bd-example4{
+    padding-top: 10rem;
+    margin-left: 10rem;
+}
+
+.bd-example5{
+    padding-top: 5rem;
+}
+
+.modal-content{
+    margin-top: 5rem;
+}
+.bd-example6{
+    padding-top: 10rem;
+    width: 600px;
+}
+
+.progress{
+    margin-top: 1rem;
+}
+.scrollpsy-example2{
+    position: relative;
+}
+.scrollspy-example{
+    height: 300px;
+    overflow-y: scroll;
+}
